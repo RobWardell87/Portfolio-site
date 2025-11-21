@@ -135,6 +135,8 @@ button:active {
 .container {
 padding: 56px 0;
 height: 100vh;
+
+
 }
 
 .row {
@@ -303,7 +305,7 @@ Explore
 
 #explore {
   background-color: #7342d6;
-  align-items: end;
-}
+  margin: 0 auto;
+  }
 
 
